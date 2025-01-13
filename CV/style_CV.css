@@ -58,6 +58,7 @@ aside {
 	color: white;
 	width: 80%;
 	max-width: 320px;
+	border-radius: 10px 0 0 10px;
 }
 
 .block-content2{
@@ -69,6 +70,7 @@ aside {
 	background: white;
 	box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 	padding: 100px 10px 100px 10px;
+	border-radius: 0 10px 10px 0;
 }
 
 .main-content p {
@@ -86,6 +88,7 @@ img {
 	display: block;
   	margin: 40px auto;
   	width: 90%;
+  	border-radius: 50%;
 }
 
 ul {
